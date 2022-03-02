@@ -1,8 +1,8 @@
 <?php
 $servername = 'localhost';
-$username = 'u5495388_oneitdb';
-$password = '$6dvz(bV~By,';
-$database = 'u5495388_simulasi';
+$username = '';
+$password = '';
+$database = '';
 
 $connect = mysqli_connect($servername, $username, $password, $database);
 // mengecek koneksi
