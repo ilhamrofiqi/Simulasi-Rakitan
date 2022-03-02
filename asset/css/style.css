@@ -1,0 +1,77 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.info {
+  background-color: #FEC731;
+  height: 40px;
+  padding: 11px 0 0 0;
+  font-size: 13px;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #b3b3b3;
+}
+
+.navbar-custom {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.navbar-nav {
+  padding-left: 36px;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  color: #222222;
+}
+
+.navbar-custom .navbar-nav .active-custom {
+  color: #FEC731;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+  color: #FEC731;
+}
+
+.dropdown-item {
+  font-size: 13px;
+}
+
+.dropdown-item:hover {
+  background-color: #FEC731;
+}
+
+.header {
+  padding-top: 36px;
+  text-align: center;
+  font-size: 20px;
+  color: #222222;
+  font-weight: 500;
+}
+
+.update-harga {
+  padding-top: 16px;
+  text-align: center;
+  font-size: 14px;
+  color: #222222;
+  font-weight: 400;
+}
+
+.simulasi {
+  padding-top: 36px;
+  padding-bottom: 60px;
+  color: #222222;
+}
+
+.footer {
+  background-color: #FEC731;
+  height: 40px;
+  font-size: 13px;
+  text-align: center;
+
+}
+
+.footer p {
+  padding-top: 11px;
+}

@@ -1,0 +1,3 @@
+[09-Jul-2021 14:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u5495388/public_html/simulasi/index.php on line 403
+[09-Jul-2021 14:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u5495388/public_html/simulasi/index.php on line 623
+[09-Jul-2021 14:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u5495388/public_html/simulasi/index.php on line 667
